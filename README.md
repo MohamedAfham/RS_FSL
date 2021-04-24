@@ -1,1 +1,2 @@
-# RS_FSL
+# Rich Semantics Improve Few-Shot Learning
+
