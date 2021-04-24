@@ -6,4 +6,6 @@
 
 ![alt text](https://github.com/MohamedAfham/RS_FSL/blob/main/Figures/Architecture.png?raw=true)
 
+![alt text](https://github.com/MohamedAfham/RS_FSL/blob/main/Figures/Dataset.png?raw=true)
+
 ## Code will be released soon !!
