@@ -6,13 +6,14 @@
 
 ## Citation
 ```bibtex
-@misc{afham2021richsemantics,
-      Author = {Mohamed Afham and Salman Khan and Muhammad Haris Khan and Muzammal Naseer and Fahad Shahbaz Khan},
-      Title = {Rich Semantics Improve Few-shot Learning},
-      Year = {2021},
-      Eprint = {arXiv:2104.12709},
+@misc{afham2021rich,
+      title={Rich Semantics Improve Few-shot Learning}, 
+      author={Mohamed Afham and Salman Khan and Muhammad Haris Khan and Muzammal Naseer and Fahad Shahbaz Khan},
+      year={2021},
+      eprint={2104.12709},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
+}
 ```
 
 
