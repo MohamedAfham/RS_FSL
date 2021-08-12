@@ -19,6 +19,8 @@
 
 ![alt text](https://github.com/MohamedAfham/RS_FSL/blob/main/Figures/Architecture.png?raw=true)
 
+Class Level descriptions of miniImageNet dataset is available in [miniImageNet_descriptions](./miniImageNet_descriptions). Some qualitative examples are shown below.
+
 ![alt text](https://github.com/MohamedAfham/RS_FSL/blob/main/Figures/Dataset.png?raw=true)
 
 ## Code will be released soon !!
